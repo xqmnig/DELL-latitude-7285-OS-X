@@ -40,7 +40,7 @@
 ## What Works
 
 ***Graphics/Display***
-- Intel® UHD Graphics 615 QE/CI, 2048MB vRam
+- Intel® HD Graphics 615 QE/CI, 2048MB vRam
 - Type C DP 2 ports Video/Audio output Hot Swap(Open Core not work)
 - Thunderbolt Display output(Open Core not work)
 - Brightness control
