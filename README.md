@@ -65,7 +65,7 @@
 
 ***USB, Storage***
 - Full Size/Type C USB 2.0, 3.0 Hot Swap
-- m.2 NVME 2280/ m.2 SATA 2280 1 Slot and m.2 NVME 2230(2242)/m.2 SATA 2230(2242) 1 Slot
+- m.2 NVME 2230 1 Slot and m.2 NVME 2230(2242) 1 Slot
 - Thunderbolt 3 (Open Core not work)
 - Thunderbolt 3 Test with RX560 egpu and DELL WD15 TD15 dock
 
