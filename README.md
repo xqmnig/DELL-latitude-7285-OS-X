@@ -9,7 +9,7 @@
 - Display : 12.3 Inch 2880 X 1920 (WUXGA+) 3:2 10 Points Multi Touch
 - Memory : Micron LPDDR3 16GB 1867MHZ (8GB * 2 Dual Channel)
 - SSD : PM971 NVEM Samsung 256GB (2230), TOSHIBA KXG60ZMV512G 512GB (2240) (WWAN Slot * 1)
-- Wireless : BCM9435AZE(DW1820) (WLAN Slot * 1)
+- Wireless : BCM9435AZE(DW1820) (WLAN Slot * 1)// macos 12 change to intel wifi 8265.
 - Battery : 32WHr(Bluid in) + 22WHr(Keyboard) 
 
 
